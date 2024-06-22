@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Albert Theodore Lutterodt, and I'm a Mobile Developer, from Ghana</p>
+<p align="left">My name is Albert Theodore Lutterodt, and I'm an Aspiring Mobile Developer, from Ghana</p>
 
 ###
 
